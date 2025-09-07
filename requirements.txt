@@ -1,0 +1,17 @@
+# Web Framework
+Flask
+
+# LINE Messaging API SDK
+line-bot-sdk
+
+# Ollama Python Library
+ollama
+
+# HTTP Requests
+requests
+
+# JSON Web Token (JWT) handling for authentication
+PyJWT[crypto]
+
+# Helper library for key generation (part of the setup process)
+jwcrypto
